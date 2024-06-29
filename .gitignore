@@ -3,3 +3,4 @@ data_training_old/
 models_trained_Old/
 scripts_simulation/references/learned_model_data/
 data_training/
+venv/
